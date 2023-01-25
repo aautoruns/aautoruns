@@ -1,9 +1,9 @@
-## <p align="left"> <img src="https://komarev.com/ghpvc/?username=aautoruns&label=Profile%20views&color=0e75b6&style=flat" alt="aautoruns"/></p> Hello, i'm using GitHub!
+## <p align="left"> <img src="https://komarev.com/ghpvc/?username=aautoruns&label=Profile%20views&color=0e75b6&style=flat" alt="aautoruns"/></p> Hello there, i'm using GitHub!
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-## 💫 About Me:
+## 👋 About Me:
 I am Galih Azella Firdaus, I am a student at <a href="https://www.stmik-wp.ac.id/" target="_blank">STMIK Widya Pratama Pekalongan.</a> Welcome to my GitHub profile.
 
 ## 🌐 Socials:
