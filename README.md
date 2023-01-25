@@ -47,10 +47,3 @@ I am Galih Azella Firdaus, I am a student at <a href="https://www.stmik-wp.ac.id
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aautoruns&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-## 🦍 Random Dev Behavior
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🎵 Recent Song:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o3f5ldym4o8xxjg4wa284iz3q&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=o3f5ldym4o8xxjg4wa284iz3q&redirect=true)
