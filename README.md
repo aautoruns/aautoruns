@@ -1,4 +1,4 @@
-## <p align="left"> <img src="https://komarev.com/ghpvc/?username=aautoruns&label=Profile%20views&color=0e75b6&style=flat" alt="aautoruns"/></p> Hello there, i'm using GitHub!
+## <p align="left"> <img src="https://komarev.com/ghpvc/?username=aautoruns&label=Profile%20views&color=0e75b6&style=flat" alt="aautoruns"/></p> Hi there, i'm using GitHub!
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
