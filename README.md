@@ -49,8 +49,10 @@ Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-w
 </a>
 <br>
 
-## 💽 Last Played
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o3f5ldym4o8xxjg4wa284iz3q&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=o3f5ldym4o8xxjg4wa284iz3q&redirect=true)
+<h3>🎶 Vibing to</h3>
+<a href="https://open.spotify.com/user/o3f5ldym4o8xxjg4wa284iz3q?si=scN93XlRTRCuZKtN3fh5Rg&utm_source=copy-link">
+  <img src="https://itstommi.vercel.app/api?theme=dark" alt="Current Spotify Song">
+</a>
 
 ## 🐈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aautoruns&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
