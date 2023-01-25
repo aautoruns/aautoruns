@@ -4,7 +4,7 @@
 </div>
 
 ## 👋 About Me:
-I am Galih Azella Firdaus, I am a student at <a href="https://www.stmik-wp.ac.id/" target="_blank">STMIK Widya Pratama Pekalongan.</a> Welcome to my GitHub profile.
+Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMIK Widya Pratama Pekalongan.</a> Welcome to my GitHub profile.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%235C1F87.svg?logo=Instagram&logoColor=white)](https://instagram.com/aautoruns)
