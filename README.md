@@ -35,10 +35,22 @@ Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-w
 ![Notion](https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black)
 
 ## 🎮 Healing Stack:
-![Playstation](https://img.shields.io/badge/PlayStation-%23003791.svg?style=for-the-badge&logo=playstation&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-%230E7A0D.svg?style=for-the-badge&logo=xbox&logoColor=white)
-![EpicGames](https://img.shields.io/badge/EpicGames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-%2303234B.svg?style=for-the-badge&logo=steam&logoColor=white)
+<a href="https://steamcommunity.com/profiles/76561198967812580/">
+    <img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Epic%20Games-252525?style=for-the-badge&logo=epicgames&logoColor=white" target="_blank">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/PlayStation%20Network-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank">
+</a>
+<a href="https://open.spotify.com/user/o3f5ldym4o8xxjg4wa284iz3q?si=scN93XlRTRCuZKtN3fh5Rg&utm_source=copy-link">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+</a>
+<br>
+
+## 💽 Last Played
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o3f5ldym4o8xxjg4wa284iz3q&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=o3f5ldym4o8xxjg4wa284iz3q&redirect=true)
 
 ## 🐈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aautoruns&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
