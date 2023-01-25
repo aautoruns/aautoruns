@@ -18,6 +18,7 @@ Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-w
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23783BF9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23284ff0.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -25,6 +26,7 @@ Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-w
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23000B1D.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black)
 <a href="https://steamcommunity.com/profiles/76561198967812580/">
@@ -36,11 +38,6 @@ Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-w
 <a href="">
     <img src="https://img.shields.io/badge/PlayStation%20Network-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank">
 </a>
-<br>
-
-<h3>🎶 Recently Played</h3>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=o3f5ldym4o8xxjg4wa284iz3q&unique={true|1|on|yes})
 
 ## 🐈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aautoruns&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
