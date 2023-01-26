@@ -16,6 +16,7 @@ Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-w
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23783BF9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23284ff0.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +28,7 @@ Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-w
 ![Figma](https://img.shields.io/badge/figma-%23000B1D.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe%20CC%20Family-%23FF0000.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black)
 <a href="https://steamcommunity.com/profiles/76561198967812580/">
     <img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
