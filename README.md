@@ -1,11 +1,13 @@
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=aautoruns&label=Profile%20views&color=0e75b6&style=flat" alt="aautoruns"/></p> Hi there, i'm using GitHub!
-<div align="center">
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
 
 ### 👋 About Me:
-<img src="https://user-images.githubusercontent.com/96577430/225972378-d1c0a66c-19bd-406e-919f-1c46f5d209d7.gif" width="200px" alt="me">
-Hi, I'm Galih Azella Firdaus, a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMIK Widya Pratama Pekalongan.</a> Welcome to my GitHub profile.
+<div align="left">
+    <img src="https://user-images.githubusercontent.com/96577430/225972378-d1c0a66c-19bd-406e-919f-1c46f5d209d7.gif" width="200px" alt="me">
+</div>
+<h3>Hi, I'm Galih Azella Firdaus,</h3> 
+a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMIK Widya Pratama Pekalongan.</a> Welcome to my GitHub profile.
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%235C1F87.svg?logo=Instagram&logoColor=white)](https://instagram.com/aautoruns)&nbsp;
