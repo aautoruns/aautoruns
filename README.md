@@ -1,11 +1,10 @@
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=aautoruns&label=Profile%20views&color=0e75b6&style=flat" alt="aautoruns"/></p> Hi there, i'm using GitHub!
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<div>
+    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
 ### 👋 About Me:
-<div align="left">
-    <img src="https://user-images.githubusercontent.com/96577430/225972378-d1c0a66c-19bd-406e-919f-1c46f5d209d7.gif" width="200px" alt="me">
-</div>
 <h3>Hi, I'm Galih Azella Firdaus,</h3> 
 a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMIK Widya Pratama Pekalongan.</a> Welcome to my GitHub profile.
 
@@ -20,18 +19,14 @@ a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMI
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%2300ABA0.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23783BF9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%23045696.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23284ff0.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <a href="https://www.behance.net/galihazellaa">
     <img src="https://img.shields.io/badge/Behance-%23053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
 </a>
+![Adobe XD](https://img.shields.io/badge/XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![Adobe](https://img.shields.io/badge/Adobe%20CC-%23FF0000.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
@@ -43,13 +38,21 @@ a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMI
     <img src="https://img.shields.io/badge/Epic%20Games-252525?style=for-the-badge&logo=epicgames&logoColor=white" target="_blank">
 </a>
 
-### 🐈 GitHub Stats:
+### 📊 GitHub Stats:
 <details>
 
-![](https://github-readme-stats.vercel.app/api?username=aautoruns&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aautoruns&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aautoruns&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aautoruns&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aautoruns&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aautoruns&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=aautoruns&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aautoruns&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=aautoruns&icon=6&color=12)](https://visitcount.itsvg.in)
 </details>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
