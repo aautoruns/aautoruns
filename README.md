@@ -1,14 +1,17 @@
-## <p align="left"> <img src="https://komarev.com/ghpvc/?username=aautoruns&label=Profile%20views&color=0e75b6&style=flat" alt="aautoruns"/></p> Hi there, i'm using GitHub!
+<div align="left">  
 
-<div>
-    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+### Hello Everyone👋
+
 </div>
 
-### 👋 About Me:
-<h3>Hi, I'm Galih Azella Firdaus,</h3> 
-a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMIK Widya Pratama Pekalongan.</a> Welcome to my GitHub profile.
+<div align="left">
+<img src="https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif" align="center" height="" width="600" />
+</div>
 
-### 🌐 Socials:
+<h3>My Name is Galih Azella Firdaus,</h3> 
+a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMIK Widya Pratama Pekalongan.</a> But now it's PMM 3 at <a href="https://pmm.kampusmerdeka.kemdikbud.go.id/pages/pt/detil/QzE1NkRFRkQtNzgyQS00NTlCLUIxMzQtMjRDNDY0OEE5RDEz" target="_blank">Mataram University.</a> Welcome to my GitHub profile.
+
+### 🌐 Social's:
 [![Instagram](https://img.shields.io/badge/Instagram-%235C1F87.svg?logo=Instagram&logoColor=white)](https://instagram.com/aautoruns)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/galih-azella-firdaus-61079b208)&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/galihazellaa)&nbsp;
@@ -39,7 +42,7 @@ a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMI
 </a>
 
 ### 📊 GitHub Stats:
-<details>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=aautoruns&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aautoruns&theme=gotham&hide_border=false)<br/>
@@ -49,6 +52,8 @@ a student from campus <a href="https://www.stmik-wp.ac.id/" target="_blank">STMI
 ![](https://github-contributor-stats.vercel.app/api?username=aautoruns&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
+<details>
+    
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
